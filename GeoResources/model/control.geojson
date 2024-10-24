@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ComPasso",
+                "description": "QRCode ComPasso",
+                "id": "1",
+                "type": "control"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73448,
+                    -23.53925
+                ]
+            }
+        }
+    ]
+}

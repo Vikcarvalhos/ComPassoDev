@@ -1,0 +1,22 @@
+/* Estilo geral do header */
+.nav-header {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: #007bff; /* Ajuste a cor conforme necessário */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 7vh;
+    z-index: 3;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo-image {
+    height: 5vh;
+    width: auto;
+}

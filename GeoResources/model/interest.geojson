@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pista",
+                "description": "Pista do Palco",
+                "id": "1002",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73435,
+                    -23.5395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arena Firewall",
+                "description": "Arena Firewall",
+                "id": "1003",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7343,
+                    -23.53978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Inicia\u00e7\u00e3o Cient\u00edfica",
+                "description": "Projetos de Inicia\u00e7\u00e3o Ci\u00eantifica",
+                "id": "1004",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7345,
+                    -23.53965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arena Mecatr\u00f4nica",
+                "description": "Arena Mecatr\u00f4nica",
+                "id": "1005",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7347,
+                    -23.5398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caminh\u00e3o Mercedes",
+                "description": "Caminh\u00e3o da Mercedes",
+                "id": "1006",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7347,
+                    -23.53958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Caminh\u00e3o Scania",
+                "description": "Caminh\u00e3o da Scania",
+                "id": "1007",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73485,
+                    -23.53978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pra\u00e7a de Alimenta\u00e7\u00e3o",
+                "description": "Diversas op\u00e7\u00f5es de comidas deliciosas.",
+                "id": "1008",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7351,
+                    -23.5399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Tech",
+                "description": "Big Tech",
+                "id": "1009",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.7348,
+                    -23.53995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arena Robocup",
+                "description": "Arena Robocup",
+                "id": "1010",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73476,
+                    -23.54027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arena Drone",
+                "description": "Arena Drone",
+                "id": "1011",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73396,
+                    -23.53955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIDATA Arena",
+                "description": "AIDATA Arena",
+                "id": "1012",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73463,
+                    -23.53947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arena Cyber",
+                "description": "Arena Cyber",
+                "id": "1013",
+                "type": "interest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -46.73436,
+                    -23.5392
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1001 e 1 com auxiliares",
+                "id": "1-1001",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.7345,
+                        -23.5393
+                    ],
+                    [
+                        -46.7345,
+                        -23.5393
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1013 e 1 com auxiliares",
+                "id": "1-1013",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.73436,
+                        -23.5392
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1002 e 1 com auxiliares",
+                "id": "1-1002",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.73444,
+                        -23.5393
+                    ],
+                    [
+                        -46.73444,
+                        -23.5394
+                    ],
+                    [
+                        -46.73435,
+                        -23.5395
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1012 e 1 com auxiliares",
+                "id": "1-1012",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.73463,
+                        -23.53947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1006 e 1 com auxiliares",
+                "id": "1-1006",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7347,
+                        -23.53958
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1007 e 1 com auxiliares",
+                "id": "1-1007",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7347,
+                        -23.5397
+                    ],
+                    [
+                        -46.73485,
+                        -23.53978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1004 e 1 com auxiliares",
+                "id": "1-1004",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7345,
+                        -23.53965
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1003 e 1 com auxiliares",
+                "id": "1-1003",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7343,
+                        -23.53978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1005 e 1 com auxiliares",
+                "id": "1-1005",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7347,
+                        -23.5398
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1008 e 1 com auxiliares",
+                "id": "1-1008",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.73475,
+                        -23.53978
+                    ],
+                    [
+                        -46.73485,
+                        -23.5397
+                    ],
+                    [
+                        -46.7351,
+                        -23.5399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1009 e 1 com auxiliares",
+                "id": "1-1009",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7347,
+                        -23.5397
+                    ],
+                    [
+                        -46.73485,
+                        -23.53985
+                    ],
+                    [
+                        -46.7348,
+                        -23.53995
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1010 e 1 com auxiliares",
+                "id": "1-1010",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.7344,
+                        -23.5394
+                    ],
+                    [
+                        -46.7346,
+                        -23.5396
+                    ],
+                    [
+                        -46.7347,
+                        -23.5397
+                    ],
+                    [
+                        -46.735,
+                        -23.54
+                    ],
+                    [
+                        -46.7349,
+                        -23.5401
+                    ],
+                    [
+                        -46.73476,
+                        -23.54027
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Linha com Auxiliares",
+                "description": "Linha entre 1011 e 1 com auxiliares",
+                "id": "1-1011",
+                "type": "line"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -46.73448,
+                        -23.53925
+                    ],
+                    [
+                        -46.73444,
+                        -23.5393
+                    ],
+                    [
+                        -46.73444,
+                        -23.5394
+                    ],
+                    [
+                        -46.73435,
+                        -23.5395
+                    ],
+                    [
+                        -46.7342,
+                        -23.5396
+                    ],
+                    [
+                        -46.73415,
+                        -23.53955
+                    ],
+                    [
+                        -46.7340,
+                        -23.5396
+                    ],
+                    [
+                        -46.73396,
+                        -23.53955
+                    ]
+                ]
+            }
+        }
+    ]
+}
